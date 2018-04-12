@@ -1,0 +1,16 @@
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\AsposeMail1.exe
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\AsposeMail1.pdb
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\Aspose.Email.dll
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\Aspose.Email.xml
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\ResolveAssemblyReference.cache
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.Form1.resources
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.Properties.Resources.resources
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.csproj.GenerateResource.Cache
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.exe
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.pdb
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\System.Printing.dll
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\PresentationCore.dll
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\AsposeMail1.exe.manifest
+D:\Projs\AsposeMail1\AsposeMail1\bin\Debug\AsposeMail1.application
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.exe.manifest
+D:\Projs\AsposeMail1\AsposeMail1\obj\Debug\AsposeMail1.application
